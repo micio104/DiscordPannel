@@ -44,6 +44,10 @@ ElseIf ($config.language -eq 'hu') {
     $locales = (Get-Content '../locales/hu/panel.json' -Raw) | ConvertFrom-Json
 }
 
+ElseIf ($config.language -eq 'it') {
+    $locales = (Get-Content '../locales/it/panel.json' -Raw) | ConvertFrom-Json
+}
+
 ElseIf ($config.language -eq 'nl') {
     $locales = (Get-Content '../locales/nl/panel.json' -Raw) | ConvertFrom-Json
 }
@@ -62,9 +66,9 @@ Else {
 Selection
 ---------------------------------------#>
 
-$caption = "[BetterDiscordPanel]: $($locales.welcome) $env:UserName!
+$caption = "[MicioDiscordPanel]: $($locales.welcome) $env:UserName!
  "
-$description = "[BetterDiscordPanel]: $($locales.select_option)
+$description = "[MicioDiscordPanel]: $($locales.select_option)
  "
 
 $choices = New-Object Collections.ObjectModel.Collection[Management.Automation.Host.ChoiceDescription]

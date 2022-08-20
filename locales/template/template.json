@@ -1,5 +1,5 @@
 {
-    "welcome": "", 
+    "welcome": "",
     "select_option": "",
 
     "start_web": "",
@@ -16,7 +16,7 @@
     "discordserver": "",
     "submit_issue": "",
 
-    "betterdiscordpanel_help":"",
+    "miciodiscordpanel_help":"",
     "desktop_panel_help": "",
     "settings_help": "",
     "exit_help": "",

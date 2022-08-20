@@ -2,8 +2,8 @@
     "welcome": "Здравствуйте,",
     "select_option": "Выберите вариант, который вы хотите выполнить.",
 
-    "start_app": "BetterDiscordPanel",
-    "start_desktop": "КОМПЬЮТЕРНОЕ ПРИЛОЖЕНИЕ - BetterDiscordPanel",
+    "start_app": "MicioiscordPanel",
+    "start_desktop": "КОМПЬЮТЕРНОЕ ПРИЛОЖЕНИЕ - MicioDiscordPanel",
 
     "support": "Поддержка",
     "settings": "Настройки",
@@ -16,28 +16,28 @@
     "discordserver": "Сервер Discord",
     "submit_issue": "Отправить сообщение о проблеме / ошибке / предложении",
 
-    "betterdiscordpanel_help":"Запустите BetterDiscordPanel в браузере по умолчанию.",
-    "desktop_panel_help": "Запустите настольное приложение BetterDiscordPanel.",
-    "settings_help": "Откройте настройки для BetterDiscordPanel.",
+    "miciodiscordpanel_help":"Запустите MicioDiscordPanel в браузере по умолчанию.",
+    "desktop_panel_help": "Запустите настольное приложение MicioDiscordPanel.",
+    "settings_help": "Откройте настройки для MicioDiscordPanel.",
     "exit_help": "Выйти из этого скрипта.",
-    "support_help": "Получите поддержку для BetterDiscordPanel.",
-    "update_help": "Обновите BetterDiscordPanel до последней доступной версии.",
-    "language_help": "Выберите язык для BetterDiscordPanel",
-    "english_help": "Выберите язык для BetterDiscordPanel",
+    "support_help": "Получите поддержку для MicioDiscordPanel.",
+    "update_help": "Обновите MicioDiscordPanel до последней доступной версии.",
+    "language_help": "Выберите язык для MicioDiscordPanel",
+    "english_help": "Выберите язык для MicioDiscordPanel",
     "go_back_help": "Вернитесь к панели выбора.",
     "discord_help": "Откройте ссылку сервера поддержки Discord в браузере по умолчанию.",
     "issue_help": "Отправьте сообщение о проблеме / ошибке / предложении через GitHub.",
-    "get_help": "Получите справку / поддержку для BetterDiscordPanel:",
+    "get_help": "Получите справку / поддержку для MicioDiscordPanel:",
 
-    "check_installation": "Проверьте, правильно ли вы установили BetterDiscordPanel.",
+    "check_installation": "Проверьте, правильно ли вы установили MicioDiscordPanel.",
     "checking_failure": "Ошибка проверки системы.",
-    "checking_system": "Проверка системы BetterDiscordPanel...",
+    "checking_system": "Проверка системы MicioDiscordPanel...",
     "check_success": "Проверка системы прошла успешно.",
-    "updating": "Обновление BetterDiscordPanel...",
-    "updating_failure": "Невозможно обновить BetterDiscordPanel из-за ошибки.",
+    "updating": "Обновление MicioDiscordPanel...",
+    "updating_failure": "Невозможно обновить MicioDiscordPanel из-за ошибки.",
     "check_index": "Проверьте, существует ли index.html.",
     "check_main": "Проверьте, существует ли main.js.",
     "check_repo_download_method": "Клонируйте репозиторий и попробуйте еще раз.",
-    "booting": "Загрузка BetterDiscordPanel..."
+    "booting": "Загрузка MicioDiscordPanel..."
 }
 

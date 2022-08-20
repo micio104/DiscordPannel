@@ -58,7 +58,7 @@ function infoNotification(message) {
   }).show();
 }
 
-function betterDiscordConsole(message, color) {
+function micioDiscordConsole(message, color) {
   color = color || 'black';
   switch (color) {
     case 'success':

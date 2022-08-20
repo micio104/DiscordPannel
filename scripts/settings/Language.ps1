@@ -52,6 +52,10 @@ ElseIf ($config.language -eq 'tr') {
 	$locales = (Get-Content '../../locales/tr/panel.json' -Raw) | ConvertFrom-Json
 }
 
+ElseIf ($config.language -eq 'it') {
+	$locales = (Get-Content '../../locales/it/panel.json' -Raw) | ConvertFrom-Json
+}
+
 Else {
     Start-Sleep -Seconds 0.1
     Write-Host "[ERROR]: INVALID LANGUAGE."
@@ -62,9 +66,9 @@ Else {
 Language Settings
 ---------------------------------------#>
 
-$caption = "[BetterDiscordPanel]: $($locales.language):
+$caption = "[MicioDiscordPanel]: $($locales.language):
  "
-$description = "[BetterDiscordPanel]: $($locales.language_help)
+$description = "[MicioDiscordPanel]: $($locales.language_help)
  "
 
 $choices = New-Object Collections.ObjectModel.Collection[Management.Automation.Host.ChoiceDescription]

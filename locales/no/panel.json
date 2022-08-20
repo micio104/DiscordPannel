@@ -2,8 +2,8 @@
     "welcome": "Hei,",
     "select_option": "Velg alternativet du vil utføre.",
 
-    "start_app": "BetterDiscordPanel",
-    "start_desktop": "DATA APP - BetterDiscordPanel",
+    "start_app": "MicioDiscordPanel",
+    "start_desktop": "DATA APP - MicioDiscordPanel",
 
     "support": "Hjelp",
     "settings": "Innstillinger",
@@ -16,28 +16,28 @@
     "discordserver": "Discord Server",
     "submit_issue": "Send inn en  feil eller forslag",
 
-    "betterdiscordpanel_help":"Start BetterDiscordPanel inn dit standardnettleser.",
-    "desktop_panel_help": "Start BetterDiscordPanel appen.",
-    "settings_help": "Innstillinger for BetterDiscordPanel.",
+    "miciodiscordpanel_help":"Start MicioDiscordPanel inn dit standardnettleser.",
+    "desktop_panel_help": "Start MicioDiscordPanel appen.",
+    "settings_help": "Innstillinger for MicioDiscordPanel.",
     "exit_help": "Gå ut av scripten.",
-    "support_help": "Få hjelp til BetterDiscordPanel.",
-    "update_help": "Oppdater BetterDiscordPanel til den nyeste versjon.",
-    "language_help": "Velg et språk til BetterDiscordPanel",
-    "english_help": "Velg et språk til BetterDiscordPanel",
+    "support_help": "Få hjelp til MicioDiscordPanel.",
+    "update_help": "Oppdater MicioDiscordPanel til den nyeste versjon.",
+    "language_help": "Velg et språk til MicioDiscordPanel",
+    "english_help": "Velg et språk til MicioDiscordPanel",
     "go_back_help": "Gå tilbake til valgpanelet.",
     "discord_help": "Åpne Discord hjelp server link i dit standardnettleser.",
     "issue_help": "Send inn en feil eller forslag gjennom GitHub.",
-    "get_help": "Få hjelp / støtte for BetterDiscordPanel:",
+    "get_help": "Få hjelp / støtte for MicioDiscordPanel:",
 
-    "check_installation": "Sjekk om du har installert BetterDiscordPanel riktig.",
+    "check_installation": "Sjekk om du har installert MicioDiscordPanel riktig.",
     "checking_failure": "Systemkontrollen mislyktes.",
-    "checking_system": "Kontrollerer BetterDiscordPanel-systemet ...",
+    "checking_system": "Kontrollerer MicioDiscordPanel-systemet ...",
     "check_success": "Systemkontroll vellykket.",
-    "updating": "Oppdaterer BetterDiscordPanel ...",
-    "updating_failure": "Kan ikke oppdatere BetterDiscordPanel, feil under oppdatering av BetterDiscordPanel.",
+    "updating": "Oppdaterer MicioDiscordPanel ...",
+    "updating_failure": "Kan ikke oppdatere MicioDiscordPanel, feil under oppdatering av MicioDiscordPanel.",
     "check_index": "Sjekk om index.html eksisterer.",
     "check_main": "Sjekk om main.js eksisterer.",
     "check_repo_download_method": "Klon 'Repository' og prøv igjen.",
-    "booting": "Starter opp BetterDiscordPanel ..."
+    "booting": "Starter opp MicioDiscordPanel ..."
 }
 

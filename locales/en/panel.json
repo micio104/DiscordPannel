@@ -2,8 +2,8 @@
     "welcome": "Hello,",
     "select_option": "Select the option you would like to perform.",
 
-    "start_app": "BetterDiscordPanel",
-    "start_desktop": "DESKTOP APP - BetterDiscordPanel",
+    "start_app": "MicioDiscordPanel",
+    "start_desktop": "DESKTOP APP - MicioDiscordPanel",
 
     "support": "Support",
     "settings": "Settings",
@@ -16,27 +16,27 @@
     "discordserver": "Discord Server",
     "submit_issue": "Submit an Issue/Bug Report/Suggestion",
 
-    "betterdiscordpanel_help":"Start BetterDiscordPanel in your default browser.",
-    "desktop_panel_help": "Start the Desktop app of BetterDiscordPanel.",
-    "settings_help": "Open the Settings for BetterDiscordPanel.",
+    "miciodiscordpanel_help":"Start MicioDiscordPanel in your default browser.",
+    "desktop_panel_help": "Start the Desktop app of MicioDiscordPanel.",
+    "settings_help": "Open the Settings for MicioDiscordPanel.",
     "exit_help": "Exit this script.",
-    "support_help": "Get Support for BetterDiscordPanel.",
-    "update_help": "Update BetterDiscordPanel to the latest available version.",
-    "language_help": "Choose a Language for BetterDiscordPanel",
+    "support_help": "Get Support for MicioDiscordPanel.",
+    "update_help": "Update MicioDiscordPanel to the latest available version.",
+    "language_help": "Choose a Language for MicioDiscordPanel",
     "go_back_help": "Go back to the selection panel.",
     "discord_help": "Open the Discord support server link on your default browser.",
     "issue_help": "Submit a Issue/Bug Report/Suggestion through GitHub.",
-    "get_help": "Get Help/Support for BetterDiscordPanel:",
+    "get_help": "Get Help/Support for MicioDiscordPanel:",
 
-    "check_installation": "Check if you have installed BetterDiscordPanel correctly.",
+    "check_installation": "Check if you have installed MicioDiscordPanel correctly.",
     "checking_failure": "System check failed.",
-    "checking_system": "Checking BetterDiscordPanel system ...",
+    "checking_system": "Checking MicioDiscordPanel system ...",
     "check_success": "System check successful.",
-    "updating": "Updating BetterDiscordPanel ...",
-    "updating_failure": "Unable to update BetterDiscordPanel, error while updating BetterDiscordPanel.",
+    "updating": "Updating MicioDiscordPanel ...",
+    "updating_failure": "Unable to update MicioDiscordPanel, error while updating MicioDiscordPanel.",
     "check_index": "Check if index.html exists.",
     "check_main": "Check if main.js exists.",
     "check_repo_download_method": "Clone the Repository and try again.",
-    "booting": "Booting up BetterDiscordPanel ..."
+    "booting": "Booting up MicioDiscordPanel ..."
 }
 

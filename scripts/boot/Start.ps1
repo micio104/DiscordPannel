@@ -51,6 +51,10 @@ ElseIf ($config.language -eq 'tr') {
 	$locales = (Get-Content '../../locales/tr/panel.json' -Raw) | ConvertFrom-Json
 }
 
+ElseIf ($config.language -eq 'it') {
+	$locales = (Get-Content '../../locales/it/panel.json' -Raw) | ConvertFrom-Json
+}
+
 Else {
     Start-Sleep -Seconds 0.1
     Write-Host "[ERROR]: INVALID LANGUAGE."
@@ -58,16 +62,16 @@ Else {
 }
 
 <#---------------------------------------
-BetterDiscordPanel Web Boot-up
+MicioDiscordPanel Web Boot-up
 ---------------------------------------#>
 
 Write-Host ""
-Write-Host "[BetterDiscordPanel]: $($locales.checking_system)"
+Write-Host "[MicioDiscordPanel]: $($locales.checking_system)"
 If (Test-Path "..\..\index.js") {
-    Write-Host "[BetterDiscordPanel]: $($locales.check_success)"
+    Write-Host "[MicioDiscordPanel]: $($locales.check_success)"
     Write-Host
 
-    Write-Host "[BetterDiscordPanel]: $($locales.booting)"
+    Write-Host "[MicioDiscordPanel]: $($locales.booting)"
     Write-Host
 
     node ./boot.js
@@ -106,10 +110,10 @@ If (Test-Path "..\..\index.js") {
 
 }
 Else {
-    Write-Host "[BetterDiscordPanel]: $($locales.check_failure)"
+    Write-Host "[MicioDiscordPanel]: $($locales.check_failure)"
     Write-Host
 
-    Write-Host "[BetterDiscordPanel]: $($locales.check_index)"
-    Write-Host "[BetterDiscordPanel]: $($locales.get_help)"
+    Write-Host "[MicioDiscordPanel]: $($locales.check_index)"
+    Write-Host "[MicioDiscordPanel]: $($locales.get_help)"
 }
 Write-Host

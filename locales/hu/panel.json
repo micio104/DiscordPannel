@@ -2,8 +2,8 @@
     "welcome": "Hello",
     "select_option": "Válasszon egy opciót.",
 
-    "start_app": "BetterDiscordPanel",
-    "start_desktop": "DESKTOP APP - BetterDiscordPanel",
+    "start_app": "MicioDiscordPanel",
+    "start_desktop": "DESKTOP APP - MicioDiscordPanel",
 
     "support": "Támogatás",
     "settings": "Beállítások",
@@ -16,28 +16,28 @@
     "discordserver": "Discord Szerver",
     "submit_issue": "Hiba jelentése/Ajánlattétel",
 
-    "betterdiscordpanel_help":"BetterDiscordPanel indítása az alapértelmezett böngészőben.",
-    "desktop_panel_help": "BetterDiscordPanel alkalmazás indítása",
-    "settings_help": "Beállítások megnyitása a BetterDiscordPanel-hez.",
+    "miciodiscordpanel_help":"MicioDiscordPanel indítása az alapértelmezett böngészőben.",
+    "desktop_panel_help": "MicioDiscordPanel alkalmazás indítása",
+    "settings_help": "Beállítások megnyitása a MicioDiscordPanel-hez.",
     "exit_help": "Kilépés a scriptből.",
-    "support_help": "Támogatás a BetterDiscordPanel-hez",
-    "update_help": "BetterDiscordPanel frissítése a legújabb verzióra.",
-    "language_help": "Nyelv választása a BetterDiscordPanel-hez",
-    "english_help": "Choose a Language for BetterDiscordPanel",
+    "support_help": "Támogatás a MicioDiscordPanel-hez",
+    "update_help": "MicioDiscordPanel frissítése a legújabb verzióra.",
+    "language_help": "Nyelv választása a MicioDiscordPanel-hez",
+    "english_help": "Choose a Language for MicioDiscordPanel",
     "go_back_help": "Vissza a választópanelhez",
     "discord_help": "Discord támogatási szerver megnyitása",
     "issue_help": "Probléma/Hiba jelentése GitHub-on",
-    "get_help": "Támogatás/segítség kérése a BetterDiscordPanel-hez",
+    "get_help": "Támogatás/segítség kérése a MicioDiscordPanel-hez",
 
-    "check_installation": "Ellenőrizze, hogy helyesen telepítette-e a BetterDiscordPanel-t.",
+    "check_installation": "Ellenőrizze, hogy helyesen telepítette-e a MicioDiscordPanel-t.",
     "checking_failure": "Rendszer ellenőrzése meghiúsult.",
-    "checking_system": "BetterDiscordPanel rendszerének ellenőrzése ...",
+    "checking_system": "MicioDiscordPanel rendszerének ellenőrzése ...",
     "check_success": "Rendszer ellenőrzés sikeres.",
-    "updating": "BetterDiscordPanel frissítése ...",
-    "updating_failure": "BetterDiscordPanel frissítése sikertelen volt.",
+    "updating": "MicioDiscordPanel frissítése ...",
+    "updating_failure": "MicioDiscordPanel frissítése sikertelen volt.",
     "check_index": "Ellenőrizze, hogy az index.html file megtalálható-e.",
     "check_main": "Ellenőrizze, hogy az main.js file megtalálható-e.",
     "check_repo_download_method": "Másolja le újra a Repository-t és próbálja újra.",
-    "booting": "BetterDiscordPanel indítása ..."
+    "booting": "MicioDiscordPanel indítása ..."
 }
 

@@ -2,8 +2,8 @@
     "welcome": "Buna,",
     "select_option": "Selectați opțiunea pe care doriți să o efectuați.",
 
-    "start_app": "BetterDiscordPanel",
-    "start_desktop": "Aplicaţie PC - BetterDiscordPanel",
+    "start_app": "MicioDiscordPanel",
+    "start_desktop": "Aplicaţie PC - MicioDiscordPanel",
 
     "support": "Ajutor",
     "settings": "Setări",
@@ -16,28 +16,28 @@
     "discordserver": "Server Discord",
     "submit_issue": "Trimiteți o problemă / raport de eroare / sugestie",
 
-    "betterdiscordpanel_help":"Porniți BetterDiscordPanel în browserul dvs. implicit.",
-    "desktop_panel_help": "Porniți aplicația pentru desktop a BetterDiscordPanel.",
-    "settings_help": "Deschide setari pentru BetterDiscordPanel.",
+    "miciodiscordpanel_help":"Porniți MicioDiscordPanel în browserul dvs. implicit.",
+    "desktop_panel_help": "Porniți aplicația pentru desktop a MicioDiscordPanel.",
+    "settings_help": "Deschide setari pentru MicioDiscordPanel.",
     "exit_help": "Ieșiți din acest script.",
-    "support_help": "Obțineți asistență pentru BetterDiscordPanel.",
-    "update_help": "Actualizați BetterDiscordPanel la cea mai recentă versiune disponibilă.",
-    "language_help": "Alegeți o limbă pentru BetterDiscordPanel",
-    "english_help": "Alegeți o limbă pentru BetterDiscordPanel",
+    "support_help": "Obțineți asistență pentru MicioDiscordPanel.",
+    "update_help": "Actualizați MicioDiscordPanel la cea mai recentă versiune disponibilă.",
+    "language_help": "Alegeți o limbă pentru MicioDiscordPanel",
+    "english_help": "Alegeți o limbă pentru MicioDiscordPanel",
     "go_back_help": "Reveniți la panoul de selecție.",
     "discord_help": "Deschideți linkul serverului de asistență Discord din browserul dvs. implicit.",
     "issue_help": "Trimiteți o problemă / raport de eroare / sugestie prin GitHub.",
-    "get_help": "Obțineți ajutor / asistență pentru BetterDiscordPanel:",
+    "get_help": "Obțineți ajutor / asistență pentru MicioDiscordPanel:",
 
-    "check_installation": "Verificați dacă ați instalat corect BetterDiscordPanel.",
+    "check_installation": "Verificați dacă ați instalat corect MicioDiscordPanel.",
     "checking_failure": "Verificarea sistemului nu a reușit.",
-    "checking_system": "Verificarea sistemului BetterDiscordPanel ...",
+    "checking_system": "Verificarea sistemului MicioDiscordPanel ...",
     "check_success": "Verificarea sistemului a reușit.",
-    "updating": "Se actualizează BetterDiscordPanel ...",
-    "updating_failure": "Imposibil de actualizat BetterDiscordPanel, eroare la actualizarea BetterDiscordPanel.",
+    "updating": "Se actualizează MicioDiscordPanel ...",
+    "updating_failure": "Imposibil de actualizat MicioDiscordPanel, eroare la actualizarea MicioDiscordPanel.",
     "check_index": "Verificați dacă există index.html.",
     "check_main": "Verificați dacă main.js există.",
     "check_repo_download_method": "Clonați 'Repository' și încercați din nou.",
-    "booting": "Se porneste BetterDiscordPanel ..."
+    "booting": "Se porneste MicioDiscordPanel ..."
 }
 

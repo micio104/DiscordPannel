@@ -52,6 +52,10 @@ ElseIf ($config.language -eq 'tr') {
 	$locales = (Get-Content '../../locales/tr/panel.json' -Raw) | ConvertFrom-Json
 }
 
+ElseIf ($config.language -eq 'it') {
+	$locales = (Get-Content '../../locales/it/panel.json' -Raw) | ConvertFrom-Json
+}
+
 Else {
     Start-Sleep -Seconds 0.1
     Write-Host "[ERROR]: INVALID LANGUAGE."
@@ -62,7 +66,7 @@ Else {
 Updater
 ---------------------------------------#>
 
-Function Exit-BetterDiscordPanel-Updater {
+Function Exit-MicioDiscordPanel-Updater {
   $caption = ""
   $description = ""
 
@@ -98,39 +102,39 @@ Function Exit-BetterDiscordPanel-Updater {
 }
 
 
-Write-Host "[BetterDiscordPanel]: $($locales.checking_system)"
+Write-Host "[MicioDiscordPanel]: $($locales.checking_system)"
 
 Set-Location ..
 Set-Location ..
 
 If (-Not (Test-Path ".git")) {
-  Write-Host "[BetterDiscordPanel]: $($locales.check_failure)"
+  Write-Host "[MicioDiscordPanel]: $($locales.check_failure)"
   Write-Host
 
-  Write-Host "[BetterDiscordPanel]: $($locales.check_installation)"
-  Write-Host "[BetterDiscordPanel]: $($locales.check_repo_download_method)"
-  Write-Host "[BetterDiscordPanel]: $($locales.get_help) https://discord.gg/9h822H3"
+  Write-Host "[MicioDiscordPanel]: $($locales.check_installation)"
+  Write-Host "[MicioDiscordPanel]: $($locales.check_repo_download_method)"
+  Write-Host "[MicioDiscordPanel]: $($locales.get_help) https://discord.gg/9h822H3"
 
-  Exit-BetterDiscordPanel-Updater
+  Exit-MicioDiscordPanel-Updater
 }
 
 Clear-Host
 
-Write-Host "[BetterDiscordPanel]: $($locales.check_success)"
+Write-Host "[MicioDiscordPanel]: $($locales.check_success)"
 Write-Host
 
-Write-Host "[BetterDiscordPanel]: $($locales.updating)"
+Write-Host "[MicioDiscordPanel]: $($locales.updating)"
 Write-Host
 
 git pull
 If (-Not ($?)) {
-  Write-Host "[BetterDiscordPanel]: $($locales.updating_failure)"
-  Write-Host "[BetterDiscordPanel]: $($locales.get_help) https://discord.gg/9h822H3"
+  Write-Host "[MicioDiscordPanel]: $($locales.updating_failure)"
+  Write-Host "[MicioDiscordPanel]: $($locales.get_help) https://discord.gg/9h822H3"
   Write-Host
 
-  Exit-BetterDiscordPanel-Updater
+  Exit-MicioDiscordPanel-Updater
 }
 
 
 # Update was successful
-Exit-BetterDiscordPanel-Updater
+Exit-MicioDiscordPanel-Updater

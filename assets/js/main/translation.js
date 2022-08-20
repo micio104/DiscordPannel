@@ -4,5 +4,5 @@
  * @license GPL-3.0
  */
 
-// BetterDiscordPanel
+// MicioDiscordPanel
 

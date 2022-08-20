@@ -2,9 +2,9 @@
 
 ## 🛠 Prerequisites
 
-⚠️ **UPDATE**: Discord has updated how their servers get requests. Discord only allows requests from their own domains and APIs. In order to use BetterDiscordPanel, you must set a custom User Agent.
+⚠️ **UPDATE**: Discord has updated how their servers get requests. Discord only allows requests from their own domains and APIs. In order to use MicioDiscordPanel, you must set a custom User Agent.
 
-Unfortunately, this has to be set every time you open up BetterDiscordPanel. A solution is currently being worked on for this.
+Unfortunately, this has to be set every time you open up MicioDiscordPanel. A solution is currently being worked on for this.
 
 ### Setting a custom User Agent in Chrome
 
@@ -26,4 +26,4 @@ Unfortunately, this has to be set every time you open up BetterDiscordPanel. A s
 
 `BDP (http://example.com), v0.0.1)`
 
-6. Start using BetterDiscordPanel!
+6. Start using MicioDiscordPanel!

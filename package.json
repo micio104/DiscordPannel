@@ -1,10 +1,10 @@
 {
-	"name": "betterdiscordpanel",
-	"productName": "BetterDiscordPanel",
+	"name": "miciodiscordpanel",
+	"productName": "MicioDiscordPanel",
 	"version": "3.0.0",
-	"description": "The desktop application for BetterDiscordPanel.",
+	"description": "The desktop application for micioDiscordPanel.",
 	"license": "GNU General Public License v3.0",
-	"repository": "sanjaysunil/BetterDiscordPanel",
+	"repository": "sanjaysunil/MicioDiscordPanel",
 	"author": {
 		"name": "Sanjay Sunil",
 		"email": "sanjaysunil@protonmail.com",
